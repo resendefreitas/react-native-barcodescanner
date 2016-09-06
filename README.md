@@ -1,3 +1,5 @@
+# Temporary workaround for orientation problem on android 4.4.4 tablet
+
 # react-native-barcodescanner
 
 A barcode scanner component for react native android. The library uses https://github.com/zxing/zxing to decode the barcodes. For iOS you can use https://github.com/lwansbrough/react-native-camera.
