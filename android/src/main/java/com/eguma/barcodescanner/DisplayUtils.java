@@ -35,6 +35,7 @@ public class DisplayUtils {
                 orientation = Configuration.ORIENTATION_LANDSCAPE;
             }
         }
+        orientation = Configuration.ORIENTATION_LANDSCAPE; // temporary workaround for Poynt orientation problem
         return orientation;
     }
 }
